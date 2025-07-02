@@ -1,13 +1,13 @@
 # CareerSync: University Career Fair Management System
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=CareerSync+Management+System)  
+ 
 **A robust PHP-based platform to streamline career fair operations for large-scale university events**
 
 ## 📋 Project Overview
 
 **CareerSync** is a sophisticated web application designed to revolutionize career fair management at the University of Moratuwa's Faculty of Engineering. Built using **PHP (CodeIgniter)** and powered by **Apache**, this platform efficiently orchestrates interview scheduling and coordination for **100+ students** and **30+ companies** simultaneously. It empowers company representatives to update candidate attendance and interview statuses in real-time, enables seamless inter-company scheduling, and provides students with transparent access to company availability, ensuring a smooth and organized career fair experience.
 
-Developed by a team led by an Electronic & Telecommunication Engineering undergraduate, CareerSync addresses the complexities of large-scale career fair logistics with a focus on scalability, usability, and real-time collaboration. This project showcases advanced technical expertise and leadership in delivering impactful solutions for academic-industry interactions.
+CareerSync addresses the complexities of large-scale career fair logistics with a focus on scalability, usability, and real-time collaboration. This project showcases advanced technical expertise and leadership in delivering impactful solutions for academic-industry interactions.
 
 ## 🚀 Features
 
