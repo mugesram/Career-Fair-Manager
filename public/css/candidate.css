@@ -1,0 +1,76 @@
+.search-container {
+    background-color: #e9eaec;
+    /* Light gray background */
+    border-radius: 8px;
+    /* Rounded corners */
+    padding: 20px;
+    /* Padding around the content */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow */
+}
+
+.table {
+    background-color: #ffffff;
+    /* White background for the table */
+    border-radius: 8px;
+    /* Rounded corners */
+    overflow: hidden;
+    /* Ensures rounded corners are visible */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow */
+}
+
+.table th {
+    background-color: #343a40;
+    /* Dark background for table header */
+    color: #ffffff;
+    /* White text for table header */
+    text-align: center;
+    /* Center align header text */
+    padding: 12px;
+    /* Padding for header cells */
+}
+
+.table td {
+    background-color: #ffffff;
+    /* White background for table cells */
+    color: #343a40;
+    /* Dark text for table cells */
+    text-align: center;
+    /* Center align cell text */
+    padding: 10px;
+    /* Padding for cells */
+}
+
+.table tr:nth-child(even) td {
+    background-color: #f2f2f2;
+    /* Light gray for even rows */
+}
+
+.table tr:hover td {
+    background-color: #e9eaec;
+    /* Light gray on row hover */
+}
+
+.table .dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 0.5em 1em;
+    /* Padding for pagination buttons */
+    margin: 0 0.1em;
+    /* Margin for pagination buttons */
+    border-radius: 5px;
+    /* Rounded corners for pagination buttons */
+}
+
+.table .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    background-color: #343a40;
+    /* Dark background for current page */
+    color: #ffffff;
+    /* White text for current page */
+}
+
+.table .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background-color: #495057;
+    /* Darker background on hover */
+    color: #ffffff;
+    /* White text on hover */
+}

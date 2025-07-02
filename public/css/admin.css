@@ -1,0 +1,31 @@
+.form-container {
+    background-color: #e9eaec;
+    /* White background for the form */
+    border-radius: 8px;
+    /* Rounded corners */
+    padding: 20px;
+    /* Padding around the content */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow */
+    color: black;
+}
+
+.form-label {
+    font-weight: bold;
+    /* Bold labels for better visibility */
+}
+
+.form-select {
+    height: calc(2.25rem + 2px);
+    /* Consistent height for select fields */
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+    /* Space between form groups */
+}
+
+.row {
+    align-items: center;
+    /* Center align items vertically */
+}
