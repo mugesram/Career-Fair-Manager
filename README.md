@@ -56,8 +56,8 @@ CareerSync leverages the **Model-View-Controller (MVC)** pattern provided by Cod
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/[your-username]/careersync.git
-   cd careersync
+   git clone https://github.com/mugesram/CareerSync.git
+   cd CareerSync
    ```
 2. **Install Dependencies**:
    ```bash
@@ -108,7 +108,7 @@ CareerSync leverages the **Model-View-Controller (MVC)** pattern provided by Cod
 
 ```
 careersync/
-├── application/          # CodeIgniter application folder
+├── app/          # CodeIgniter application folder
 │   ├── controllers/      # Handles business logic
 │   ├── models/           # Database interactions
 │   ├── views/            # Frontend templates
@@ -126,20 +126,11 @@ careersync/
 - **Mobile App Integration**: Extend functionality to a dedicated mobile app.
 - **AI-Powered Scheduling**: Optimize interview slots using machine learning algorithms.
 
-## 🤝 Contributing
 
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/YourFeature`).
-3. Commit changes (`git commit -m 'Add YourFeature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
-
-Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) and ensure code quality with proper documentation.
 
 ## 📧 Contact
 
-For inquiries or support, reach out via GitHub Issues or contact the project lead at [your-email@example.com].
+For inquiries or support, reach out via GitHub Issues or contact the project lead at [mugeshkrish007@gmail.com].
 
 ## 🌍 Acknowledgments
 
